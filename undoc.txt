@@ -1,0 +1,17 @@
+cargando mi primer documento
+agregar otro comentario
+
+opciones para hacer en git
+crear repositorio local
+echo "# prueba2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/profepinco/prueba2.git
+git push -u origin main
+
+
+git remote add origin https://github.com/profepinco/prueba2.git
+git branch -M main
+git push -u origin main
