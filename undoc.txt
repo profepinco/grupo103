@@ -1,5 +1,5 @@
 cargando mi primer documento
-agregar otro comentario
+
 
 opciones para hacer en git
 crear repositorio local
